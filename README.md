@@ -1,1 +1,1 @@
-# Spectrum-Androud
+# Spectrum-Android
