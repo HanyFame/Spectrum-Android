@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:background="@color/black">
+        <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/aqua"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/stream" />
+        
+        <TextView
+        android:id="@+id/label"
+        android:maxLines = "20"
+        android:scrollHorizontally="false"
+        android:scrollbars = "vertical"
+        android:gravity="bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp"
+        android:textColor="@color/lime"/>     
+</RelativeLayout>

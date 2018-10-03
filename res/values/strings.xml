@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spectrum</string>
+    <string name="spectrum">EE Masters Thesis Project</string>
+    <string name="name">Oscilloscope and Spectrum Analyzer</string>
+    <string name="action_settings">Settings</string>
+    <string name="on">Turn ON Bluetooth</string>
+    <string name="off">Turn OFF Bluetooth</string>
+    <string name="paired_list">Paired Devices</string>
+    <string name="instream">Data Stream</string>
+    <string name="stream">This is the Arduino data stream</string>
+    <string name="data">DATA STREAM</string>
+    <string name="oscilloscope">Oscilloscope</string>
+    <string name="spectrum_analyzer">Spectrum Analyzer</string>
+
+
+</resources>
